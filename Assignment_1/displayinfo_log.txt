@@ -1,0 +1,4 @@
+Hello, dbuchhei
+Current date is Tue Feb  4 10:05:29 CST 2020
+User is dbuchhei
+Current directory /home/TTU/dbuchhei/Source_Code_Samples/cs4352/shellscripting
